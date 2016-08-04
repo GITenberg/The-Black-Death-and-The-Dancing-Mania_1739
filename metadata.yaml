@@ -1,0 +1,45 @@
+_repo: The-Black-Death-and-The-Dancing-Mania_1739
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Babington, B. G. (Benjamin Guy)
+    alias: Babington, Benjamin Guy
+    birthdate: 1794
+    deathdate: 1866
+    gutenberg_agent_id: '710'
+    url: http://www.gutenberg.org/2009/agents/710
+creator:
+  author:
+    agent_name: Hecker, J. F. C. (Justus Friedrich Carl)
+    alias: Hecker, Justus Friedrich Karl
+    birthdate: 1795
+    deathdate: 1850
+    gutenberg_agent_id: '709'
+    url: http://www.gutenberg.org/2009/agents/709
+    wikipedia: http://en.wikipedia.org/wiki/Justus_Hecker
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: 'Cover; Front matter; Title page; Copyright page; Body matter; Introduction;
+  The Black Death: Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter
+  VI; The Dancing Mania: Chapter I; Chapter II; Chapter III; Chapter IV;'
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epidemics'
+- !lcsh 'Chorea, Epidemic'
+- !lcsh 'Black Death'
+- !lcc 'RC'
+- GITenberg
+title: The Black Death, and The Dancing Mania
+url: http://www.gutenberg.org/ebooks/1739
